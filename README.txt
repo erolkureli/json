@@ -1,0 +1,1 @@
+I removed the "result" :  parts to be able to parse the json file
